@@ -1,0 +1,60 @@
+{
+  "basics": {
+    "name": "Saravana Kumar",
+    "email": "msaravanakumar369@gmail.com",
+    "phone": "7010505920",
+    "degree": "BCA",
+    "website": " ",
+
+    "location": {
+      "address": "3rd Street, P.N road",
+      "postalCode": " 641602",
+      "city": "Tirupur",
+      "State": "Tamilnadu",
+      "region": "Hindu"
+    },
+    "profiles": [
+      {
+        "network": "Face Book",
+        "username": "saravanaKumar",
+
+      }
+    ]
+  },
+
+
+  "education": [
+    {
+      "institution": "RVS Arts & Science College",
+      "Place": "Sulur",
+      "gpa": "69.07",
+      "courses": [
+        "Bachelor of computer Application"
+      ]
+    }
+  ],
+
+  "skills": [
+    {
+      "name":  "Programming Languages",
+      "level": "Beggining",
+      "keywords": [
+        "Java"
+      ]
+    }
+  ],
+  "languages Known": [
+    {
+      "language": "Tamil","English",
+      "fluency": "Speak , read , listen",
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": [
+        " Cricket, Football",
+      ]
+    }
+  ]
+}
