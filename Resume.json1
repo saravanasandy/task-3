@@ -1,5 +1,5 @@
 {
-  "basics": {
+  "Basics": {
     "name": "Saravana Kumar",
     "email": "msaravanakumar369@gmail.com",
     "phone": "7010505920",
@@ -25,7 +25,7 @@
 
   "education": [
     {
-      "institution": "RVS Arts & Science College",
+      "Institution": "RVS Arts & Science College",
       "Place": "Sulur",
       "gpa": "69.07",
       "courses": [
